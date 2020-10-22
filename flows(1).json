@@ -1,0 +1,1 @@
+[{"id":"fb1e3e79.75cce","type":"visual-recognition-v3","z":"9d8a4443.0ffbc8","name":"test","vr-service-endpoint":"https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/c472500e-ea0b-4547-985e-077ef40e3b28","image-feature":"classifyImage","lang":"en","x":366,"y":180,"wires":[["adeb54a5.3e4728","6d4d8865.ef8df8"]]}]
